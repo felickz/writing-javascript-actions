@@ -1,3 +1,8 @@
+Links: 
+- https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions
+- [GitHub Actions: Writing JavaScript Actions](https://lab.github.com/githubtraining/github-actions:-writing-javascript-actions)
+
+
 # Welcome to your course 🎉
 
 ### Getting started
